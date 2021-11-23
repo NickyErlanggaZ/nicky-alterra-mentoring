@@ -1,1 +1,3 @@
+Belajar Algoritma
+ - Tugasnya membuat flowchart fungsi untuk menentukkan bilangan prima
 Belajar Git
