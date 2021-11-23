@@ -1,4 +1,5 @@
 Belajar Algoritma
+ - Belajar dasar algoritma mulai dari metode dalam pembuatan algoritma, prinsip membuat algoritma, hingga teknik apa aja untuk membangun algoritma seperti pseudocode dan flowchart
  - Tugasnya membuat flowchart fungsi untuk menentukkan bilangan prima
 Belajar Git
  - Belajar dasar git mulai dari definisi, perbedaan git dan github, hingga cara penggunaannya.
