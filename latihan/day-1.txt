@@ -1,6 +1,0 @@
-pre-test hackerrank dengan nilai yang tidak memuaskan yaitu 1%. Nilai minimum yang diharapkan adalah 50%
-
-Opening ceremony yang dihadiri oleh stasion, alterra, BNI dan peserta bootcamp.
-
-Belajar Agile dan Scrum
-- Belajar Agile dan scrum mulai dari definisi, prinsip, metode, dan cara implementasi dalam project
